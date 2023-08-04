@@ -1,0 +1,37 @@
+[
+	{
+		"source": "Borderlands",
+		"sentiment": "Positive",
+		"full_text": "for imma probably play some borderlands tps in a bit. that'yer ll be a fun",
+		"timestamp": 1641417495000,
+		"datetime": "2022-01-05 21:18:15"
+	},
+	{
+		"source": "Borderlands",
+		"sentiment": "Positive",
+		"full_text": "imma probably got some video tps in a bit. that'll make fun",
+		"timestamp": 1642478304000,
+		"datetime": "2022-01-18 03:58:24"
+	},
+	{
+		"source": "Borderlands",
+		"sentiment": "Neutral",
+		"full_text": "One of our own @ProfZeroo is live w/ @borderlands 3‼.  .  . . Catch him here: buff.ly/2WmmiP5 . . Say \"Streamer Shouts\" in chat for a chance to be in a coming. @streamer_shouts Shout Out. . .  ",
+		"timestamp": 1641834443000,
+		"datetime": "2022-01-10 17:07:23"
+	},
+	{
+		"source": "Borderlands",
+		"sentiment": "Neutral",
+		"full_text": "One of our own @ ProfZeroo is live w / @ borderlands 3.... catch him here: buff.ly / 2WmmiP5.. Say \"Streamer Shouts\" in chat for a chance to be in an upcoming one. @ streamer _ shouts Shout Out...",
+		"timestamp": 1643096930000,
+		"datetime": "2022-01-25 07:48:50"
+	},
+	{
+		"source": "Borderlands",
+		"sentiment": "Neutral",
+		"full_text": "One of our own @ ProfZero - live w / @ borderlands 3.... Catch him here: buff.ly / 2WmmiP5... Say \"Stream Shouts\" in chat for a chat for a chance to be in a coming. @ stream _ Shouts Shout Out....",
+		"timestamp": 1642290436000,
+		"datetime": "2022-01-15 23:47:16"
+	}
+]
